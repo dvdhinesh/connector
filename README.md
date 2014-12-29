@@ -14,3 +14,4 @@ Please join and subscribe to the mailing list.
 
 Documentation:
 http://www.openerp-connector.com
+--------------------------------
